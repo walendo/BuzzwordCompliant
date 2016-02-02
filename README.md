@@ -2,4 +2,4 @@
 Test repo
 
 ## Authors
-Nacho, Walendo, Mike
+Walendo, Nacho, Mike
